@@ -1,10 +1,9 @@
 This is mainline first line.
 This is mainline second line.
-<<<<<<< HEAD
+
 
 
 
 This is mainline 3rd line.
-=======
+
 This is dev first line.
->>>>>>> 781f8f5 (create dev branch)
